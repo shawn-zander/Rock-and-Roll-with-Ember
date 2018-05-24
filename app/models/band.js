@@ -14,7 +14,7 @@ export default EmberObject.extend({
     },
 
     slug: computed('name', function() {
-        console.log('Recomputing slug');
+        //console.log('Recomputing slug');
         return dasherize(this.get('name'));
     })
 });

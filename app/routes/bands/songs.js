@@ -1,4 +1,4 @@
-// app/routes/bands/band/songs.js
+/* app/routes/bands/band/songs.js */
 import Route from '@ember/routing/route';
 
 export default Route.extend({

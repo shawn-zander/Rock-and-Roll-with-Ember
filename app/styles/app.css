@@ -1,12 +1,12 @@
 /* app/styles/app.css */
 :root {
-    --navitem-link-color: var(--bright-yellow);
     --bright-yellow: #ffda00;
     --blue: #357edd;
     --dark-blue: #00449e;
     --light-blue: #96ccff;
     --mid-grey: #555;
     --near-white: #f4f4f4;
+    --navitem-link-color: var(--bright-yellow);
     --input-color: var(--mid-grey);
     --button-color: var(--near-white);
     --button-bg-color: var(--blue);

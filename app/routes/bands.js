@@ -1,4 +1,5 @@
 // app/routes/bands.js
+// noinspection JSAnnotator
 import Route from '@ember/routing/route';
 import { A } from '@ember/array';
 import Band from 'rarwe/models/band';
